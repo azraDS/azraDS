@@ -12,7 +12,7 @@
 
 I don't hand over notebooks. I ship systems.
 
-- 🔭 Currently building a production multi-agent AI search platform at **Hey Savi**, live with **~15,000 users** across web, iOS and Android
+- 🔭 Built a production multi-agent AI search platform at **Hey Savi**, live with **~15,000 users** across web, iOS and Android
 - 🧠 Five-agent **LangGraph** pipeline over a **6–7 million-product** catalogue, with search refinement cut from 20+ seconds to ~7
 - 🩺 Medical Doctor (MBBS) turned AI Engineer
 - 📫 Reach me at **azra_vural@hotmail.com**
